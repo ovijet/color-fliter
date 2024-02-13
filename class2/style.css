@@ -1,0 +1,9 @@
+ span{
+    width: 25px;
+    border: 1px solid;
+    border-left: 1px solid #000;
+    height:2px;
+    display: block;
+    margin: 5px auto;
+    background-color: black;
+}

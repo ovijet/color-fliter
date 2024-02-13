@@ -1,0 +1,43 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.container {
+  width: 600px;
+  margin: 20px auto;
+  background-color: rgb(116, 111, 111);
+  color: aliceblue;
+  padding: 20px;
+  border-radius: 5px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+  font-size: 35px;
+}
+p {
+  font-size: 20px;
+  line-height: 1.2;
+  /* text-decoration: solid; */
+  color: rgb(253, 232, 232);
+}
+.primary-btn {
+  padding: 10px;
+  font-size: 20px;
+  background-color: red;
+  outline: none;
+  /* border: none; */
+  color: #fff;
+}
+
+.secondary-btn {
+  padding: 10px;
+  float: right;
+  font-size: 20px;
+  background-color: blue;
+  color: #fff;
+  outline: none;
+  /* border: none; */
+}
